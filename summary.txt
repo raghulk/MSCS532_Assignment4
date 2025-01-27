@@ -1,0 +1,5 @@
+Summary
+
+• Heapsort provides a reliable, in-place sorting solution with consistent O(nlogn) performance. However, its real-world efficiency often lags behind Quicksort due to higher overheads.
+• Priority queues, implemented using a heap, are versatile tools for efficiently managing dynamic, prioritized data. They find applications in real-time systems, networking, and more.
+• The empirical comparison and analysis highlight the trade-offs between sorting and priority queue operations, emphasizing the need to choose the right tool for specific scenarios.
